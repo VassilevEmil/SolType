@@ -1,0 +1,16 @@
+{
+  "name": "nft-sales-bot",
+  "version": "1.0.0",
+  "description": "Nft Sales Bot for discord using JavaScript and Solana",
+  "main": "sales_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emil Vasilev",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex/js": "^4.12.0",
+    "@solana/web3.js": "^1.56.2",
+    "axios": "^0.27.2"
+  }
+}
